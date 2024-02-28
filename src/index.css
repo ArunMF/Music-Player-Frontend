@@ -1,13 +1,14 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Outfit&family=Pacifico&family=Protest+Strike&display=swap');
+
+*{
+  font-family: 'Outfit', sans-serif;
+  /* font-family: 'Pacifico', cursive; */
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1{
+  font-family: 'Protest Strike', sans-serif;
+}
+span{
+  text-decoration: none;
+  /* color: #303030; */
 }
